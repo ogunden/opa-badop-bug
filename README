@@ -1,0 +1,10 @@
+to see the build that works:
+
+  make works
+
+to see the the build that breaks:
+
+  make broken
+
+the first compiles directly to an exe, the second compiles first to a
+package, then links to an exe.
